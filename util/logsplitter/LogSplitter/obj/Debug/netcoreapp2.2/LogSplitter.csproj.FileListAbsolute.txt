@@ -1,0 +1,11 @@
+C:\Users\NCTThai\Documents\git\LogSplitter\obj\Debug\netcoreapp2.2\LogSplitter.csprojAssemblyReference.cache
+C:\Users\NCTThai\Documents\git\LogSplitter\obj\Debug\netcoreapp2.2\LogSplitter.csproj.CoreCompileInputs.cache
+C:\Users\NCTThai\Documents\git\LogSplitter\obj\Debug\netcoreapp2.2\LogSplitter.AssemblyInfoInputs.cache
+C:\Users\NCTThai\Documents\git\LogSplitter\obj\Debug\netcoreapp2.2\LogSplitter.AssemblyInfo.cs
+C:\Users\NCTThai\Documents\git\LogSplitter\bin\Debug\netcoreapp2.2\LogSplitter.deps.json
+C:\Users\NCTThai\Documents\git\LogSplitter\bin\Debug\netcoreapp2.2\LogSplitter.runtimeconfig.json
+C:\Users\NCTThai\Documents\git\LogSplitter\bin\Debug\netcoreapp2.2\LogSplitter.runtimeconfig.dev.json
+C:\Users\NCTThai\Documents\git\LogSplitter\bin\Debug\netcoreapp2.2\LogSplitter.dll
+C:\Users\NCTThai\Documents\git\LogSplitter\bin\Debug\netcoreapp2.2\LogSplitter.pdb
+C:\Users\NCTThai\Documents\git\LogSplitter\obj\Debug\netcoreapp2.2\LogSplitter.dll
+C:\Users\NCTThai\Documents\git\LogSplitter\obj\Debug\netcoreapp2.2\LogSplitter.pdb

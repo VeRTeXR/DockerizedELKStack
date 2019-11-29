@@ -1,0 +1,8 @@
+# - pipeline.id: logstashMariaDbJdbc
+#   path.config: "/usr/share/logstash/pipeline/logstash.conf"
+# - pipeline.id: logstashPostgresql
+#   path.config: "/usr/share/logstash/pipeline/postgresql.conf"
+# - pipeline.id: fileBeat
+#   path.config: "/usr/share/logstash/pipeline/fileBeat.conf"
+- pipeline.id: stdOut
+  path.config: "/usr/share/logstash/pipeline/test.conf"
